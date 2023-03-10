@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
+<h1 align="center">Hi 👋, my name is Christian</h1>
 
 
 
