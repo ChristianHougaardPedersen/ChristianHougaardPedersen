@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, my name is Christian</h1>
 
 
-
-- 🏫 I'm currently studying **Software Technology Engineering** at **VIA University College**
-
 - 📫 How to reach me **christian@chougaard.com**
 
 - Connect with me: <a href="https://linkedin.com/in/christianhpedersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianhpedersen" height="15" width="20" /></a>
